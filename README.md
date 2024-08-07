@@ -1,7 +1,13 @@
+# Qoute App
 
- Packege :
- Provider,
- SharedPrefence,
+
+ <h1>Packege : </h2>
+  <h2> 1  Provider</h2> 
+  <h2> 2  shared freferences</h2>
+ 
+
+
+ Description : "Create a sleek and dynamic Quotes app using Flutter, powered by an API for fetching inspiring quotes. Manage and persist user preferences with SharedPreferences, and streamline state management with Provider for a seamless and efficient user experience."
 
 <div>
 
