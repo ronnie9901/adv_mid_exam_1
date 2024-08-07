@@ -28,9 +28,13 @@ class ExamProvider extends ChangeNotifier{
 
     }
 
-
     void delete(int index){
       weather.removeAt(index);
+      notifyListeners();
+
 
     }
+
+
+
 }
